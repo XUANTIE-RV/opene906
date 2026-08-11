@@ -73,3 +73,9 @@ You can get the debugger, IDE and SDK from the url:https://occ.t-head.cn/communi
 #limitations under the License.
 #*/
 
+
+## Resources
+
+Technical resources for E906-based IoT development, including processor documentation and related development materials:
+
+* [XuanTie E906 Technical Resources](https://www.xrvm.cn/product/xuantie/E906)
